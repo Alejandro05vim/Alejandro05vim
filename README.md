@@ -9,5 +9,5 @@
 </div>
 
 <div id="badges" align="center">
-<img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Alejandro05vim&color=00cf00" alt=""/>
+<img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Alejandro05vim.Alejandro05vim&color=00cf00" alt=""/>
 </div>
