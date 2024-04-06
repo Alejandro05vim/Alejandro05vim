@@ -8,6 +8,6 @@
   </a>
 </div>
 
-<div id="badges" align="center">
-<img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Alejandro05vim.Alejandro05vim&color=00cf00" alt=""/>
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Alejandro05vim" alt="Profile Views Counter">
+</p>
